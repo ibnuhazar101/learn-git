@@ -9,7 +9,7 @@ setelah di clone, create new branch masing-masing
 jalankan watch tailwind untuk dapat mengakses class-class tailwind
 - npx tailwindcss -o tailwind.css --watch
 
-kerjakan task di file nama masing-masing
+kerjakan task di file nama masing-masing, jangan ubah file index.html
 
 masukkan gambar di folder images
 
